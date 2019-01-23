@@ -1,5 +1,5 @@
 node default {
 }
 node  'puppet.imam.com' {
-include profile::master_server
+include role::master_server
 }
