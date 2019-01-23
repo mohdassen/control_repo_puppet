@@ -1,5 +1,5 @@
 node default {
 }
-node  'master.puppet.vm' {
+node  'puppet.imam.com' {
 include rofle::master_server
 }
