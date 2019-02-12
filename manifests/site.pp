@@ -1,3 +1,3 @@
-node puppet.imam.com {
+node default {
   include role::master
 }
