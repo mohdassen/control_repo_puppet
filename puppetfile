@@ -1,3 +1,0 @@
-mod 'puppet/ngix'
-mod 'puppetlabs/stdlib'
-mod 'puppetlabs/concat'
